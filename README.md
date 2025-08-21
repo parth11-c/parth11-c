@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hey,%20I'm%20Parth%20&width=800&height=100" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hey,%20I'm%20Full Stack Developer%20&width=800&height=100" />
 </h1>
 
 
