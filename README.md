@@ -1,7 +1,8 @@
 <!-- Header with Gradient -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Parth+👋; />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Parth+👋;🚀" />
 </h1>
+
 
 
 ---
