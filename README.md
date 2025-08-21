@@ -7,7 +7,7 @@
 
 📫 Let's Connect:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth11-c)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:parthbhende11@gmail.com)
 
 ---
 
@@ -29,16 +29,14 @@
 ---
 
 ## 🚀 Notable Work & Experience
-- **Virtual Blood Bank** 🩸 – A full-stack application using Spring Boot + MongoDB.  
-- **Mines (Freelance Project)** ⛏ – End-to-end delivery of a client project.  
 - **Unified Online Student Project Platform** 🎓 – A collaboration hub for projects across universities.  
-
+- **Mines (Freelance Project)** ⛏ – End-to-end delivery of a client project.  
+- **Virtual Blood Bank** 🩸 – A full-stack application using Spring Boot + MongoDB.
 ---
 
 ## 🏆 Achievements & Goals
 - 🎓 Pursuing **Computer Science Engineering (2026 batch)**.  
-- 📌 Targeting **Master’s in CS (Cloud/Software Dev) at TU Delft, Netherlands**.  
-- 🌟 Building strong expertise in **DSA, Cloud, and DevOps**.  
+- 🌟 Building strong expertise in **DSA, Backend(JAVA), Cloud, and DevOps**.  
 
 ---
 
