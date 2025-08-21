@@ -76,17 +76,9 @@
 
 - 🎓 Pursuing **Computer Science Engineering (2026 batch)**  
 - 💡 Strengthening expertise in **DSA, Backend (Java), Cloud, and DevOps**  
-- 🌍 Aiming for **Master’s in Computer Science (Cloud/Software Dev) @ TU Delft**  
 
 ---
 
-## ✨ Fun Quote
-
-<p align="center">
-  <i>"Good code is like good humor — it needs no explanation!"</i>
-</p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parth11-c&style=for-the-badge&color=blue" alt="profile views"/>
