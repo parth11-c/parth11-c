@@ -1,6 +1,7 @@
-<h1 align="center" style="color:#00F7F7; font-size: 40px; text-shadow: 0 0 10px #00F7F7;">
-  Hey, I'm Parth 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&repeat=false&random=false&width=600&lines=Hey%2C+I'm+Parth+👋" />
 </h1>
+
 
 
 
