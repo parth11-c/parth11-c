@@ -40,10 +40,12 @@
 ## 💻 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,react,reactnative,expo,aws,docker,supabase,git,github,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,react,reactnative,expo,aws,docker,supabase,git,github,postman,js&perline=7" />
 </p>
 
 ---
+
+ 
 
 ## 📊 GitHub Insights  
 
