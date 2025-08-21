@@ -1,10 +1,9 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7A00FF&height=150&section=header&text=Hey,%20I'm%20Parth%20👋&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7A00FF&height=150&section=header&text=Hey,%20I'm%20Parth%20👨‍💻&fontSize=40&fontColor=ffffff" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>  
   <em>Full-Stack Developer | Cloud & DevOps Enthusiast | Lifelong Learner 🚀</em>
 </p>
 
@@ -12,16 +11,31 @@
 
 ## 🚀 About Me  
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 
 - 🔹 Passionate **Full-Stack Developer** building **scalable, high-performance apps**  
 - 🔹 Skilled in **Java, Spring Boot, React.js, React Native, MongoDB**  
 - 🔹 Experienced in **end-to-end project delivery & freelancing**  
 - 🔹 Exploring **Cloud, AI integrations & DevOps pipelines**  
 
-📫 **Connect with me →**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthbhende/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthbhende11@gmail.com)  
+---
+
+## 🤝 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parthbhende/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60"/>
+  </a>
+  <a href="mailto:parthbhende11@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="60"/>
+  </a>
+  <a href="https://github.com/parth11-c" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/96/000000/github.png" width="60"/>
+  </a>
+  <a href="https://x.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/96/1DA1F2/twitter.png" width="60"/>
+  </a>
+</p>
 
 ---
 
