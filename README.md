@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hey,%20I'm%20Parth%20width=800&height=70" />
+<h1 align="center" style="color:#00F7F7; font-size: 40px; text-shadow: 0 0 10px #00F7F7;">
+  Hey, I'm Parth 👋
 </h1>
+
 
 
 
