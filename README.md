@@ -11,12 +11,11 @@
 
 ## 🚀 About Me  
 
-<img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
-
 - 🔹 Passionate **Full-Stack Developer** building **scalable, high-performance apps**  
 - 🔹 Skilled in **Java, Spring Boot, React.js, React Native, MongoDB**  
 - 🔹 Experienced in **end-to-end project delivery & freelancing**  
 - 🔹 Exploring **Cloud, AI integrations & DevOps pipelines**  
+
 --
 
 ## 🤝 Connect with Me  
