@@ -68,13 +68,6 @@
 
 ---
 
-## 🏆 Achievements & Goals  
-
-- 🎓 Pursuing **Computer Science Engineering (2026 batch)**  
-- 💡 Expanding expertise in **Backend (Java), Cloud, and DevOps**  
-- 🌟 Aspiring to architect **cloud-native & AI-powered systems**  
-
----
 
 <!-- Footer -->
 <h1 align="center">
