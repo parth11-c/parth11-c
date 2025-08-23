@@ -14,7 +14,7 @@
 - 🔹 Passionate **Full-Stack Developer** building **scalable, high-performance apps**  
 - 🔹 Skilled in **Java, Spring Boot, React.js, React Native, MongoDB**  
 - 🔹 Experienced in **end-to-end project delivery & freelancing**  
-- 🔹 Exploring **Cloud, AI integrations & DevOps**  
+- 🔹 Exploring **Cloud, AI integrations & DevOps **  
 
 --
 
