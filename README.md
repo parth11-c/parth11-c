@@ -20,8 +20,6 @@
 - 🛠️ Fluent in the language of **Java, Spring Boot, React.js, React Native, MongoDB**
 - 🌍 Bridging front-end dreams with back-end power, one project at a time
 - ☁️ On an endless journey through **Cloud, AI, and DevOps frontiers**
-- 🚀 Never done learning. Never afraid of the next big thing.
-
 ---
 
 ## 🌐 Let’s Connect & Create
