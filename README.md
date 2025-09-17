@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,react,reactnative,expo,aws,docker,supabase,git,github,postman,js&perline=8" />
 </p>
 <p align="center">
-  <i>From cloud-native apps to mobile wonders, my toolkit is ever-evolving.</i>
+  <i>From cloud-native apps to mobile wonders, my toolkit is ever-evolving</i>
 </p>
 
 ---
