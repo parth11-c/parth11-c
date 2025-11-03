@@ -11,7 +11,7 @@
 
 ---
 
-## ✨ Who Am I?     https://parth11-c.github.io/ProtfolioWebsite/
+## ✨ Who Am I?     https://parth11-c.github.io/PortfolioWebsite/
 
 > **“A craftsman of code, a seeker of scale, a mind forever in motion.”**
 
