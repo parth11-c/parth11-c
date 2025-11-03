@@ -2,10 +2,11 @@
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7A00FF&height=150&section=header&text=Hey,%20I'm%20Parth%20👨‍💻&fontSize=40&fontColor=ffffff" />
 </h1>
-https://parth11-c.github.io/ProtfolioWebsite/
 <p align="center">
   <em>
     <b>Code Alchemist | Cloud Voyager | DevOps Dreamer | Relentless Creator  </b>
+    https://parth11-c.github.io/ProtfolioWebsite/
+
   </em>
 </p>
 
