@@ -18,7 +18,7 @@
 - 🌌 Building **digital worlds** as a passionate **Full-Stack Developer**
 - ⚡ Turning ideas into robust, user-centric solutions—**from concept to cloud**
 - 🛠️ Fluent in the language of **Java, Spring Boot, React.js, React Native, MongoDB**
-- 🌍 Bridging front-end dreams with back-end power, one project at a time
+- 🌍 Bridging front-end dreams with back-end power, one project at a time ....
 - ☁️ On an endless journey through **Cloud, AI, and DevOps frontiers**
 ---
 
