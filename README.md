@@ -9,7 +9,7 @@
   </em>
 </p>
 
----
+--- 
 
 ## ✨ Who Am I?     https://parth11-c.github.io/PortfolioWebsite/
 
