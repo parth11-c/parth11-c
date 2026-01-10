@@ -20,6 +20,7 @@
 - 🛠️ Fluent in the language of **Java, Spring Boot, React.js, React Native, MongoDB**
 - 🌍 Bridging front-end dreams with back-end power, one project at a time ....
 - ☁️ On an endless journey through **Cloud, AI, and DevOps frontiers**
+- Currently learning WordPress and exploring how to build modern, responsive, and content-driven websites. **
 ---
 
 ## 🌐 Let’s Connect & Create
