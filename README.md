@@ -4,7 +4,7 @@
 </h1>
 <p align="center">
   <em>
-    <b>Code Alchemist | Cloud Voyager | DevOps Dreamer | Relentless Creator....  </b>
+    <b>Code Alchemist | Cloud Voyager | DevOps Dreamer | Relentless Creator...  </b>
  
   </em>
 </p>
