@@ -70,7 +70,7 @@
 
 - 🎓 <b>Unified Online Student Project Platform</b> — Where students unite, collaborate, and turn ideas into impact across universities.
 - ⛏ <b>Mines (Freelance Project)</b> — A full-stack adventure for a real-world client, from vision to victory.
--   <b>ClgMart <b> - Where Strudents can sell & buy stuff to their fellow collage mates..
+-   <b>ClgMart <b> - Where Strudents can sell & buy stuff to their fellow collage mates...
 -   
 ---
 
